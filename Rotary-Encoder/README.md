@@ -1,6 +1,6 @@
 # Instructions
 
-## _[On Arduino IDE]_
+## 1. On Arduino IDE
 - Ensure the Arduino is wired as shown in the screenshots folder
 - Upload the code in Rotary_Encode/Rotary_Encoder.ino to your Arduino UNO(ensure the port is correctly set-up)
 
