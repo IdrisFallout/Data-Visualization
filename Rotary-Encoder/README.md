@@ -13,9 +13,8 @@
 - If the script named arduinoScript.py is not available, create a new script with the same name and paste the code from the attached [arduinoScript.py][script] to the new python script with Blender.
 - Just before you execute the script you have install the python library called Serial in the following path `C:\Program Files\Blender Foundation\blender-2.83.0-windows64\2.83\python\lib`.
 
-> **Note** **Enter**
-> I used blender 2.83.0, it worked for me
-> 
+> **Note** 
+> I used blender 2.83.0, it worked for me 
 
 
 
