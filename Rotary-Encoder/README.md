@@ -6,7 +6,7 @@
 
 ![Wiring...](screenshots/rotary4blend.PNG?raw=true "Optional Title")
 
-- Upload the arduino[arduinocode] code in to your Arduino UNO(ensure the port is correctly set-up)
+- Upload the [arduino code][arduinocode] in to your Arduino UNO(ensure the port is correctly set-up)
 
 ## _In Blender_
 - Open the [betaTest.blend][blendfile] and navigate to the scripting window
