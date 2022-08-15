@@ -1,7 +1,9 @@
 # Instructions
 
 ## _On Arduino IDE_
-- Ensure the Arduino is wired as shown below 
+- Ensure the Arduino is wired as shown below
+
+
 ![Wiring...](screenshots/rotary4blend.PNG?raw=true "Optional Title")
 
 - Upload the code in Rotary_Encode/Rotary_Encoder.ino to your Arduino UNO(ensure the port is correctly set-up)
