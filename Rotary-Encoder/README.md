@@ -10,8 +10,8 @@
 
 ## _In Blender_
 - Open the [betaTest.blend][blendfile] and navigate to the scripting window
-- If the script named arduinoScript.py is not available, create a new script with the same name and paste the code from the attached [arduinoScript.py][script] to the new python script with Blender.
-- Just before you execute the script you have install the python library called [Serial][library] in the following path `C:\Program Files\Blender Foundation\blender-2.83.0-windows64\2.83\python\lib`.
+- If the script named arduinoScript.py is not available, create a new script with the same name and paste the code from the attached [arduinoScript.py][script] to the new python script within Blender.
+- Just before you execute the script you have to paste the python library called [Serial][library] in the following path `C:\Program Files\Blender Foundation\blender-2.83.0-windows64\2.83\python\lib`.
 - Ensure you Arduino board is connected to your computer before you execute the python script.
 
 
