@@ -17,4 +17,4 @@
 
 [script]: arduinoScript.py
 [blendfile]: betaTest.blend
-[arduinocode]: Rotary_Encode/Rotary_Encoder.ino
+[arduinocode]: Rotary_Encode
