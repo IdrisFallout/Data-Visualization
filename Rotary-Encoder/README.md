@@ -11,4 +11,4 @@
 
 
 
-[script]: [www.waithakasam.tk]
+[script]: [arduinoScript.py]
