@@ -11,4 +11,4 @@
 
 
 
-[script]: [arduinoScript.py]
+[script]: [/arduinoScript.py]
