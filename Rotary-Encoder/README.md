@@ -6,4 +6,4 @@
 
 ## _In Blender_
 - Open the betaTest.blend and navigate to the scripting window
-- If the script named arduinoScript.py is not available, create a new script with the same name and paste the code from the attached arduinoScript.py[www.waithakasam.tk] to the new python script with Blender.
+- If the script named arduinoScript.py is not available, create a new script with the same name and paste the code from the attached arduinoScript.py to the new python script with Blender.
